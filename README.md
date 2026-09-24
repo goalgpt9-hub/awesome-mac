@@ -1329,6 +1329,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Cleanup and Uninstall
 
+* [Bytesweep](https://bytesweep.app/) - Modern disk analyzer and storage cleaner for macOS, Windows, Linux, and iPhone. Explore your storage visually, find what is consuming space, remove junk, duplicates, caches, and developer files, and quickly reclaim disk space.
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps. ![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI. [![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
 * [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?platform=mac)
